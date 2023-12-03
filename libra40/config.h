@@ -1,4 +1,4 @@
-// Copyright 2023 ThompsonVaughn (@ThompsonVaughn)
+// Copyright 2023 vboards (@vboards)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
