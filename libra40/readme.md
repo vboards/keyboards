@@ -1,13 +1,13 @@
-#Libra Mini
+# Libra Mini
 Compile the firmware using QMK MSYS and flash using the .hex file with QMK Toolbox (Ensure the selected MCU is ATmega32U4)
 
 For any support on how to change the keyboard to your liking, visit https://docs.qmk.fm/#/ or visit the QMK Discord at https://discord.gg/qmk
 
-#Keymaps
+# Keymap info
 
 The current default keymap is set up with 2 layers, and with the joystick having different functionality on each layer.
 
-##Joystick
+## Joystick
 
 Shoutout to Joshinator, their blog is what helped me get to the finish line on the joystick portion of the firmware, since I hadn't ever worked with them before. You can find their page at https://joshinator.de/posts/qmk-gamepad-part-3/, which I highly recommend doing.
 
