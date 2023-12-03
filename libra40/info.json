@@ -1,7 +1,7 @@
 {
-    "manufacturer": "ThompsonVaughn",
+    "manufacturer": "vboards",
     "keyboard_name": "libra40",
-    "maintainer": "ThompsonVaughn",
+    "maintainer": "vboards",
     "bootloader": "caterina",
     "diode_direction": "ROW2COL",
     "features": {
