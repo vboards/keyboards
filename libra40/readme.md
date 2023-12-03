@@ -1,9 +1,9 @@
-#libra40
+#Libra Mini
 Compile the firmware using QMK MSYS and flash using the .hex file with QMK Toolbox (Ensure the selected MCU is ATmega32U4)
 
 For any support on how to change the keyboard to your liking, visit https://docs.qmk.fm/#/ or visit the QMK Discord at https://discord.gg/qmk
 
-#Keymap
+#Keymaps
 
 The current default keymap is set up with 2 layers, and with the joystick having different functionality on each layer.
 
